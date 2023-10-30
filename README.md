@@ -1,6 +1,6 @@
-# A.I._CV_Scanner_Pro 🤖
+# CV_reader_v1 🤖
 
-**A.I._CV_Scanner_Pro** streamlines the CV/Resume review process by extracting relevant information, summarizing it, and saving the results in an easily accessible format.
+**CV_reader_v1** streamlines the CV/Resume review process by extracting relevant information, summarizing it, and saving the results in an easily accessible format.
 
 ## Who Would Benefit? 🙋
 Recruiters and hiring managers will find this tool invaluable, as it significantly reduces the time and effort required to sift through numerous CVs/Resumes to find the most suitable candidate for a job opening.
